@@ -70,6 +70,8 @@ S Trisheela
  android:textSize="24dp" />
 </RelativeLayout>
 S Trisheela
+
+
 MainActivity.java
 package com.example.fourprog;
 import androidx.appcompat.app.AlertDialog;
